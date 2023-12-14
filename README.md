@@ -31,7 +31,7 @@ My Noty is not just an app; it's your cheerful companion ready to assist you in 
     python my_noty.py
 
 
-Conversation with Peepi
+## Conversation with Peepi
 
 Peepi is not just an AI; she's your friend. Share your thoughts, experiences, or simply say hello, and Peepi will respond with warmth and empathy. Engage in conversations with Peepi to make your My Noty experience even more delightful. 🗨️💬
 
