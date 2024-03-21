@@ -18,7 +18,7 @@ class LoginScreen(BoxLayout):
 
         login_button = Button(text="Login", on_press=self.login)
 
-        self.add_widget(Label(text='Welcome to My Noty!', font_size='20sp'))
+        self.add_widget(Label(text='Welcome to Smauga!', font_size='20sp'))
         self.add_widget(self.name_input)
         self.add_widget(self.age_input)
         self.add_widget(login_button)
