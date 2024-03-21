@@ -1,16 +1,16 @@
-# My Noty App 💜🌆🔮
+# Smauga 💜🌆🔮
 
-Welcome to **My Noty**, your adorable personal assistant app with a touch of magic! 🚀
+Welcome to **Smauga**, your adorable personal assistant app with a touch of magic! 🚀
 
 ![Peepi](https://media1.tenor.com/m/Vi1DN-M7FmUAAAAC/cute-anime-anime-girl.gif)
 
 ## Overview
 
-My Noty is not just an app; it's your cheerful companion ready to assist you in organizing your schedule, offering valuable advice, and even providing recommendations based on your location. Meet Peepi, your virtual AI friend, who is cute, friendly, and always there to make your day a little brighter. 🌟
+Smauga is not just an app; it's your cheerful companion ready to assist you in organizing your schedule, offering valuable advice, and even providing recommendations based on your location. Meet Peepi, your virtual AI friend, who is cute, friendly, and always there to make your day a little brighter. 🌟
 
 ## Features
 
-- **User-Friendly Login:** Just enter your name and age to unlock the world of My Noty!
+- **User-Friendly Login:** Just enter your name and age to unlock the world of Smauga!
 - **Purple Theme:** Immerse yourself in a calming purple ambiance, setting the mood for productivity and positivity.
 - **Personalized Schedule:** Organize your day effortlessly with the built-in scheduler.
 - **Peepi's Advice:** Need a boost? Peepi is here to share uplifting advice with you!
@@ -21,14 +21,14 @@ My Noty is not just an app; it's your cheerful companion ready to assist you in 
 
 1. **Clone the Repository:**
    ```bash
-    git clone https://github.com/semagrb/my-noty.git
+    git clone https://github.com/semagrb/Smauga.git
 2.**Install Dependencies:**
 
     pip install -r requirements.txt
 
 3.**Run the App:**
 
-    python my_noty.py
+    python Smauga.py
 
 
 ## Conversation with Peepi
