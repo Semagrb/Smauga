@@ -164,7 +164,7 @@ body{
   /* Body styles */
   /* Header styles */
   header {
-      background-color: #222;
+      background-color: rgb(112, 92, 144);
       padding: 20px;
       text-align: center;
   }
@@ -196,7 +196,7 @@ body{
   
   /* Footer styles */
   footer {
-      background-color: #222;
+      background-color: rgb(112, 92, 144);;
       padding: 10px;
       text-align: center;
       position: relative;
