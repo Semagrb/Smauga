@@ -69,7 +69,7 @@ Special thanks to Peepi for being the cutest AI assistant ever! 🐾
 
 This project is licensed under the MIT License.
 
-## **Made with 💜 by 
+## **Made with 💜 by**
 
 
 ░██████╗███╗░░██╗███████╗██╗██╗░░██╗░█████╗░ 
